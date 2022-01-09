@@ -1,6 +1,6 @@
 # scroller
 
-A new Flutter project.
+A Tiktok like interfaced network video player with interactive gestures.
 
 ## Getting Started
 
